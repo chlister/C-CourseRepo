@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threading", "Threading.csproj", "{9DB71F66-2834-4405-BF41-4EBD600AF66B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParamThreads", "..\ParamThreads\ParamThreads.csproj", "{2A8EB3AD-5226-4EA4-A377-B1DE26ED77C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncProgram", "AsyncProgram\AsyncProgram.csproj", "{B861738C-E766-497E-8B17-3DDF9F705AC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DB71F66-2834-4405-BF41-4EBD600AF66B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB71F66-2834-4405-BF41-4EBD600AF66B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB71F66-2834-4405-BF41-4EBD600AF66B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB71F66-2834-4405-BF41-4EBD600AF66B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A8EB3AD-5226-4EA4-A377-B1DE26ED77C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8EB3AD-5226-4EA4-A377-B1DE26ED77C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8EB3AD-5226-4EA4-A377-B1DE26ED77C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8EB3AD-5226-4EA4-A377-B1DE26ED77C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B861738C-E766-497E-8B17-3DDF9F705AC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B861738C-E766-497E-8B17-3DDF9F705AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B861738C-E766-497E-8B17-3DDF9F705AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B861738C-E766-497E-8B17-3DDF9F705AC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17764662-9459-4469-ACDF-707D30D31154}
+	EndGlobalSection
+EndGlobal
